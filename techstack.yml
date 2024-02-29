@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/blog-alexandrocastro-dev
 report_id: e7b00306ac8a2f4337dee37466dd7f90
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:12:28+00:00'
+timestamp: '2024-02-29T19:22:10+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-12-08 22:14:05.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 14.0.4
   open_source: true
